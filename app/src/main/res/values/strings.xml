@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">App</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome">WELCOME</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
 </resources>
